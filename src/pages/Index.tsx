@@ -10,7 +10,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-3">
           <div className="flex items-center justify-between text-xs md:text-sm opacity-90">
             <a
-              href="https://phoneaddiction.com"
+              href="https://phoneaddictiongone.com"
               target="_blank"
               rel="noopener noreferrer"
               className="underline underline-offset-4 decoration-white/30 hover:decoration-white"
